@@ -1,10 +1,9 @@
-# _config.yml
 title: "Luke Oliver"
 description: "KCNA Certified | Computer Science Senior | Aspiring Platform Engineer"
 theme: minima
 author: Luke Oliver
 url: "https://lukeoliver1776.github.io"
 show_excerpts: false
-github_username: lukeoliver
-linkedin_url: "https://linkedin.com/in/YOUR-LINK"
+github_username: lukeoliver1776
+linkedin_url: "https://www.linkedin.com/in/luke-oliver-ga/"
 email: "luke@oliver.us"
