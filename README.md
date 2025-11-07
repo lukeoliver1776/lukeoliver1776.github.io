@@ -1,5 +1,3 @@
-# lukeoliver1776.github.io
-
 <h1>Luke Oliver</h1>
 <p>KCNA Certified | CS Senior | Aspiring Platform Engineer</p>
 <p>
