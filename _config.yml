@@ -1,10 +1,10 @@
 # _config.yml
 title: "Luke Oliver"
 description: "KCNA Certified | Computer Science Senior | Aspiring Platform Engineer"
-theme: minima   # Clean, responsive GitHub-maintained theme
+theme: minima
 author: Luke Oliver
-url: "https://lukeoliver.github.io"
+url: "https://lukeoliver1776.github.io"
 show_excerpts: false
 github_username: lukeoliver
 linkedin_url: "https://linkedin.com/in/YOUR-LINK"
-email: "YOUR@EMAIL.COM"
+email: "luke@oliver.us"
