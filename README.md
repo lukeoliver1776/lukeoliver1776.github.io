@@ -13,6 +13,6 @@ Focused on Kubernetes, Linux, and cloud-native automation.
 - Hosted via [GitHub Pages](https://pages.github.com)
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- [GitHub](https://github.com/YOUR-GITHUB)
-- [Email](mailto:YOUR@EMAIL.COM)
+- [LinkedIn](https://www.linkedin.com/in/luke-oliver-ga/)
+- [GitHub](https://github.com/lukeoliver1776)
+- [Email](mailto:luke@oliver.us)
